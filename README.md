@@ -4,7 +4,7 @@
 
 **Yonsei University Wonju College of Medicine**
 
-[![PDF Manuscript](https://img.shields.io/badge/manuscript-PDF-blue.svg)](https://#)
+[![PDF Manuscript](https://img.shields.io/badge/manuscript-PDF-blue.svg)](#)
 [![DOI](https://img.shields.io/badge/DOI-10.2196/29331-blue.svg)](#)
 
 <!-- ![Python](https://img.shields.io/badge/-Python-3670A0?logo=python&logoColor=ffdd54)
