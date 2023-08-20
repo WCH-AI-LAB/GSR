@@ -4,8 +4,8 @@
 
 **Yonsei University Wonju College of Medicine**
 
-<!-- [![PDF Manuscript](https://img.shields.io/badge/manuscript-PDF-blue.svg)](https://pubmed.ncbi.nlm.nih.gov/34342586/)
-[![DOI](https://img.shields.io/badge/DOI-10.2196/29331-blue.svg)](https://doi.org/10.2196/29331) -->
+[![PDF Manuscript](https://img.shields.io/badge/manuscript-PDF-blue.svg)](https://)
+[![DOI](https://img.shields.io/badge/DOI-10.2196/29331-blue.svg)](https://)
 
 <!-- ![Python](https://img.shields.io/badge/-Python-3670A0?logo=python&logoColor=ffdd54)
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?logo=r&logoColor=white) -->
